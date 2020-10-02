@@ -1,0 +1,45 @@
+issue:
+  - filtered: []
+    id: '1'
+    summary: Summary of Issue
+    openness: open
+    status: new
+    comment: []
+    response: []
+    tag:
+      - Tag
+  - filtered: []
+    id: '2'
+    openness: open
+    status: new
+    comment: []
+    response: []
+    tag: []
+  - filtered: []
+    id: '3'
+    openness: open
+    status: new
+    comment: []
+    response: []
+    tag: []
+  - filtered: []
+    id: '4'
+    openness: open
+    status: new
+    comment: []
+    response: []
+    tag: []
+  - filtered: []
+    id: '5'
+    openness: open
+    status: new
+    comment: []
+    response: []
+    tag: []
+  - filtered: []
+    id: '6'
+    openness: open
+    status: new
+    comment: []
+    response: []
+    tag: []
